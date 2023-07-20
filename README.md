@@ -1,4 +1,4 @@
-# Building a Prototype to Track Eye Gaze using Webcam
+# Building a Prototype to Track Eye Gaze from a Webcam using Regression CNN
 
 ## Introduction
 
