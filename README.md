@@ -1,6 +1,4 @@
-# Building a Prototype to Track Eye Gaze
-
-![Eye Gaze Tracking Program using Webcam]
+# Building a Prototype to Track Eye Gaze using Webcam
 
 ## Introduction
 
